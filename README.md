@@ -21,3 +21,5 @@ An Integration Insight model provides a grammar for describing the milestones 
 * Define Extraction Criteria (Integration Architect) -  This defines how to extract data from the integration variables available at the point when the respective milestone has been mapped. 
 * Activate the Model - With all milestones mapped and indicators defined, the model can now be activated.
 * View and Analyze data –  You can use OOTB dashboard or Create Custom Dashboards. 
+# GIT
+Get Code from GIT. Doc and Presentation will be send via email.
